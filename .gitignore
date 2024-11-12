@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+/SiamMask
+/deeplearning_tracking
+/report
+/tests
+/data 
+/datasets
+
+/a8_mini_gimbal_tracking/SiamMask/*
